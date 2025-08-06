@@ -297,8 +297,8 @@ npm run start:dev
 
 ### 📱 **STAY CONNECTED**
 
-[![GitHub](https://img.shields.io/badge/Follow-GitHub-black?style=for-the-badge&logo=github)](https://github.com/ehmiii)   
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ahmad-khan95096)
+[![GitHub](https://img.shields.io/badge/Follow-GitHub-black?style=for-the-badge&logo=github)](https://www.github.com/ehmiii)   
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmad-khan95096)
 </div>
 
 ---
